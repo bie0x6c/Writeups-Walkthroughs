@@ -1,2 +1,2 @@
-# WriteUp/Walkthroughs
-Write-ups/Walkthroughs of CTFs in Portuguese and English.
+# WriteUps/Walkthroughs
+Writeups/Walkthroughs of CTFs in Portuguese and English.
